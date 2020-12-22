@@ -1,2 +1,7 @@
 change 5git 
+<<<<<<< HEAD
 change new 1
+=======
+change new
+
+>>>>>>> 427f6da (main change)
