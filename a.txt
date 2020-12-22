@@ -2,5 +2,5 @@ hi this is new text
 add new row
 code
 create new branch for developing to current environtment
-main branch
-add new line
+update the file and merge with main branch
+add text
